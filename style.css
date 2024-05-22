@@ -1,8 +1,15 @@
 body{
-    background-color: rgb(57, 117, 51);
+    background-color: rgba(57, 117, 51, 0.933);
 }
 h1{color:rgb(255, 255, 255)}
 body{color:rgb(255, 255, 255);}
+h2{color: rgb(255, 255, 255);}
 table, th, tr, td{
     border: 5px dashed black;
 text-align: center;
+
+
+
+img {
+    border: 5px solid #555;
+  }
